@@ -1,4 +1,4 @@
-export default class ShopItemFuncModal {
+export default class ShopItemFuncModel {
     constructor(brand, title, description, descriptionFull, price, currency) {
         this.brand = brand;
         this.title = title;
